@@ -35,7 +35,7 @@ config:
         icon: 📦
         details: 高性能限流，保护服务稳定
       - 
-        title: quickMqtt
+        title: QUICK-MQTT
         icon: 🚀
         details: 快速集成 Mqtt 通信
 ---
