@@ -1,5 +1,5 @@
 ---
-title: README
+title: 动态配置中心
 createTime: 2025/06/19 10:56:13
 permalink: /components/tzdsdcv9/
 ---
