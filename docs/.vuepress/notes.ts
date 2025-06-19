@@ -30,7 +30,7 @@ const zhComponentsNote = defineNoteConfig({
     { text: '设计框架', link:  'design-patterns' },
     { text: '动态配置中心', link:  'redis-config-center' },
     { text: '限流工具', link:  'rate-limiter' },
-    { text: '快速Mqtt', link:  'quick-mqtt' },
+    { text: '快速MQTT', link:  'quick-mqtt' },
     // {
     //   text: '组件',
     //   prefix: '/notes/components/',
