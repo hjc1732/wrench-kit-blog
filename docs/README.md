@@ -15,10 +15,10 @@ config:
           theme: brand
           text: 快速开始
           link: /components/
-        -
-          theme: alt
-          text: Gitee →
-          link: https://gitee.com/hujincheng1732/wrench-kit
+#        -
+#          theme: alt
+#          text: Gitee →
+#          link: https://gitee.com/hujincheng1732/wrench-kit
   -
     type: features
     features:
